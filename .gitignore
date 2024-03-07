@@ -1,0 +1,14 @@
+# Original Solution
+Program4
+
+# IDE Config
+.idea
+*.iml
+
+# Build Artifacts
+out
+**/*.class
+
+# macOS Directory Config
+**/.DS_Store
+
